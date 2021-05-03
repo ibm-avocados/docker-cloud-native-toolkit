@@ -223,4 +223,4 @@ fi
 
 cd "${WORKSPACE_DIR}"
 
-./apply.sh
+bash ./apply.sh
